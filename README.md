@@ -4,4 +4,4 @@ This budget tracker functions to keep track of monetary transactions both on- an
 
 [Application Screenshot] (./images/application_screenshot.png)
 
-Link to Deployed Application:
+Link to Deployed Application: https://protected-dawn-35403.herokuapp.com/
